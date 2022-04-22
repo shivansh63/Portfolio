@@ -1,0 +1,28 @@
+.master {
+    background-color: transparent;
+}
+
+#name {
+    position: relative;
+    font-size: 40px;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    width: 350px;
+    min-width: 250px;
+    margin: 0 auto;
+    height: 450px;
+    top: 15%;
+    padding: 5px;
+    margin-top: 7%;
+}
+#typed {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.info-main{
+    font-size: 16px;
+    padding: 5px;
+    max-width: 300px;
+    
+}
